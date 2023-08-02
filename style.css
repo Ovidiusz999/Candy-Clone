@@ -1,0 +1,47 @@
+.grid {
+   height: 560px;
+   width: 560px;
+   display: flex;
+   flex-wrap: wrap;
+   border: inset;
+   border-color: chocolate;
+   border-width: 5px;
+   margin: auto;
+   margin-top: 20px;
+}
+
+.grid div {
+   height: 70px;
+   width: 70px;
+
+}
+
+h3 {
+   font-style: normal;
+   border: inset;
+   margin: 0;
+   padding: 10px;
+   width: fit-content;
+   font-size: xx-large;
+   border-color: chocolate;
+   background-color: bisque;
+   border-width: 5px;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+}
+
+h1 {
+   border: inset;
+   width: fit-content;
+   padding: 10px;
+   border-color: chocolate;
+   background-color: bisque;
+   border-width: 5px;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+}
+body {
+   background-color: burlywood;
+}
